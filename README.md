@@ -19,11 +19,11 @@ ADXL335 accelerometer sensor
 
 Sensor data was collected using an Arduino Uno, serving as the main microcontroller. The number of steps was calculated through an accelerometer, while the pulse was monitored using a PPG-based sensor. All the collected data was saved to an SD card for later review. To provide immediate feedback to the user, alerts were triggered via a buzzer, and information was displayed through both an LED and an LCD screen.
 
-Flowchart of the project
+## Flowchart of the project
 ![Image 10 05 2025 at 21 23 (1)](https://github.com/user-attachments/assets/9cc74345-414d-44db-b959-1bfde73e4bf7)
 
 
-Circuit Design from Proteus
+## Circuit Design from Proteus
 ![image](https://github.com/user-attachments/assets/06d59b48-8fe8-471b-9ea3-b3963db30da9)
 
 
